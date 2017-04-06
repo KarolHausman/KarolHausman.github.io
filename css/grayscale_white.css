@@ -467,6 +467,10 @@ ul.left-text{
 	text-align: left;
 }
 
+li:not(:last-child) {
+    margin-bottom: -20px;
+}
+
 footer {
     padding: 50px 0;
 }
