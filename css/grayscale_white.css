@@ -69,7 +69,10 @@ p, table {
 th {
     font-weight:normal;
     vertical-align:top;
-    horizontal-align:left;
+}
+
+th.first{
+    width:20%;
 }
 
 @media(min-width:768px) {
