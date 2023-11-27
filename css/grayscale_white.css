@@ -7,7 +7,7 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #000;
     background-color: #f5f5f5;
 }
@@ -33,17 +33,17 @@ margin-bottom: 2px;
 }
 .btn-default-x {
 
-    border: 1px solid #f9009a;
+    border: 1px solid #04a79d;
     outline: 0;
-    color: #f9009a;
+    color: #04a79d;
 background-color: transparent;
 }
 
 .btn-default-x:hover,
 .btn-default-x:focus {
-    border: 1px solid #f9009a;
+    border: 1px solid #04a79d;
     color: #fff;
-    background-color: #f9009a;
+    background-color: #04a79d;
 }
 
 
@@ -54,8 +54,7 @@ h4,
 h5,
 h6 {
     margin: 0 0 35px;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
 }
@@ -116,7 +115,7 @@ img {
 }
 
 a {
-    color: #f9009a;
+    color: #04a79d;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -125,11 +124,11 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #93015b;
+    color: #02605a;
 }
 
 .rein_green {
-    color: #f9009a;
+    color: #04a79d;
 }
 
 .light {
@@ -140,7 +139,7 @@ a:focus {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: #000;
     color: #fff;
 }
@@ -229,7 +228,7 @@ small.authors {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(../img/black2.jpg) no-repeat bottom center scroll;
     background-color: #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -310,10 +309,10 @@ a.fa-twitter{
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 3px solid #f9009a;
+    border: 3px solid #04a79d;
     border-radius: 100%!important;
     font-size: 40px;
-    color: #f9009a;
+    color: #04a79d;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -419,7 +418,7 @@ a.fa-twitter{
 .btn {
     border-radius: 0;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -428,16 +427,16 @@ a.fa-twitter{
 
 .btn-default {
 
-    border: 1px solid #f9009a;
+    border: 1px solid #04a79d;
     outline: 0;
     color: #fff;
-    background-color: #f9009a;
+    background-color: #04a79d;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #f9009a;
-    color: #f9009a;
+    border: 1px solid #04a79d;
+    color: #04a79d;
     background-color: transparent;
 }
 
